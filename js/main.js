@@ -1,0 +1,1 @@
+console.log("lagi loading .............. !!!!!!!!"),document.addEventListener("DOMContentLoaded",function(){document.querySelector("a-scene").addEventListener("loaded",function(e){console.log("kelar nih loading-nyaa")})});
